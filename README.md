@@ -8,7 +8,7 @@
 <h3>Também estou aprendendo:</h3>
 <ul>
   <li>JavaScript</li>
-  <li>React</li>
+  <li> React </li>
 </ul>
 <h3>Como me contatar:</h3>
 <a href="https://www.instagram.com/noldi_13it/">meu instagram</a>
